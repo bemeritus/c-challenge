@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("git \n");
-    
+    printf("C lang");
+
     return 0;    
 }
